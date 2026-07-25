@@ -26,7 +26,8 @@ body{
 .title h1{
   font-size: 300px;
   margin: 0px;
-  padding: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
   color: rgb(103, 0, 0);
 }
 p{
