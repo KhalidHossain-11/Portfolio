@@ -81,7 +81,8 @@ p{
 }
 .intro-photo img{
   width: 100%;
-  height: 70%;
+  /* height: 70%; */
+  height: 650px;
   object-fit: cover;
 }
 
